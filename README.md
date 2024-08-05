@@ -1,4 +1,4 @@
-Name:Pranav Mane Company:CODTECH IT SOLUTIONS ID:CT6FWD627 Domain:Frontend Web Development Duration: June 25th,2024 to Aug 10th,2024 Mentor:Neela santhosh kumar
+Name:Pranav Pandit Mane Company:CODTECH IT SOLUTIONS ID:CT6FWD627 Domain:Frontend Web Development Duration: June 25th,2024 to Aug 10th,2024 Mentor:Neela santhosh kumar
 
 Overviw of the project:
 Creating a portfolio website is a fantastic project that allows you to showcase your skills, projects, and accomplishments to potential employers, clients, or collaborators
