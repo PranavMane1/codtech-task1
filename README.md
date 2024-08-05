@@ -9,4 +9,3 @@ Showcase Technical Skills: Display your proficiency in various programming langu
 Highlight Projects and Experience:
 Present your past projects in detail, including your role, the technologies used, and the challenges overcome. This helps potential employers or clients understand the breadth and depth of your experience.
 
-Screenshot 2024-07-18 132145
